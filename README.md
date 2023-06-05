@@ -9,7 +9,7 @@ when a new user is added or the information of an existing user is modified.
     axios
 ## back-end
     Spring Boot
-## datebase
+## databasea
     MySQL
 
 # Versions of development tools
@@ -22,4 +22,5 @@ when a new user is added or the information of an existing user is modified.
     1. clone the project to local
         git clone git@github.com:allzsthl-pj/interview_question.git
     2. make sure development tools are all installed
-    3. 
+    3. use peng.sql in data_sql to generate the database and table
+    4. run the servers of back-end and front-end
